@@ -1,0 +1,95 @@
+#containerO {
+    text-align: center;
+    background: rgba(210, 202, 194, 0.37);
+    box-sizing:border-box;
+    border: 1px solid #a8a881;
+    width: 500px;
+    justify-content: space-evenly;
+    margin: 30px;
+}
+#container1{
+    box-sizing:border-box;
+    border: 2px solid #656563;
+    height: 40px;
+    padding: 10px;
+    margin-left: 10PX;
+    margin-right: 10px;
+}
+#container {
+    box-sizing:border-box;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+.menu{
+    box-sizing:border-box;
+    border: 2px solid #656563;
+    background: #588878;
+    width: 200px;
+    align-self: stretch;
+    margin-right: 10px;
+    padding-top:  190px;
+}
+.post1{
+    box-sizing:border-box;
+    border: 2px solid #656563;
+    background: #efd240;
+    width: 300px;
+    height: 200px;
+    margin-bottom: 10px;
+    padding-top:  80px;
+}
+
+.post2{
+    box-sizing:border-box;
+    border: 2px solid #656563;
+    background: #efd240;
+    width: 300px;
+    height: 200px;
+    padding-top:  80px;
+}
+
+#father{
+    box-sizing:border-box;
+    border: 2px solid #656563;
+    text-align: center;
+    width: 500px;
+    padding: 10px;
+    margin: 30px;
+
+}
+#father1 > div {
+    height: 110px;
+    width: 140px;
+    border: 2px solid #656563;
+    margin-top:10px ;
+    margin-bottom: 10px;
+    background: #588878;
+}
+
+#father1{
+    display: flex;
+    justify-content: space-between;
+}
+
+#Widget{
+    box-sizing:border-box;
+    border: 2px solid #656563;
+    text-align: center;
+    height: 200px;
+    background: rgba(126, 92, 128, 0.63);
+    padding-top: 80px;
+}
+
+#Contact{
+    box-sizing:border-box;
+    border: 2px solid #656563;
+    text-align: center;
+    height: 300px;
+    background: rgba(37, 98, 176, 0.83);
+    padding-top: 140px;
+}
+
+#target{
+    padding-top: 80px;
+}
